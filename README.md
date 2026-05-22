@@ -27,7 +27,7 @@ End-to-end tests are designed to simulate a real user interacting with the full 
 3. **Add a meta description to the document.** Lighthouse flagged that the page has no meta description, which lowered the SEO score to 91. Adding a `<meta name="description" content="...">` tag in the HTML head improves how the site appears in search engine results and helps search crawlers understand what the page is about.
 
 ## Test Result
-![Test results screenshot](test-result.png)
+![Test results screenshot](test_result.png)
 
 
 
